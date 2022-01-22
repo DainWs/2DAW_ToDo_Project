@@ -16,7 +16,7 @@ La aplicación debe:
 
 Todos los puntos anteriores son los mínimos para alcanzar un 5 en el proyecto. El resto de puntos hasta el 10 se obitenen según los siguientes puntos:
 
-- [X] (0,8 puntos) Al añadir o borrar tareas se realiza una pequeña animación.
+- [ ] (0,8 puntos) Al añadir o borrar tareas se realiza una pequeña animación.
 - [X] (0,5 puntos) Debe ser posible cambiar la prioridad de una tarea. Para ello cada tarea muestra un pequeño botón por cada prioridad, que al pusar se actualiza.
 - [X] (1 punto) Las tareas se muestran siempre ordenadas por prioridad (alta a baja).
 - [X] (0,5 puntos) Cada tarea muestra los minutos pasados desde que se dió de alta.
