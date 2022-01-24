@@ -25,6 +25,7 @@
     background-color: white;
 }
 
+
 #todolist_search {
     margin-bottom: 5vh;
 }
@@ -51,6 +52,10 @@
 
 .task {
     border: 0 solid gainsboro;
+}
+
+#todolist_list {
+    width: max-content;
 }
 
 #todolist_list > * {
