@@ -1,7 +1,7 @@
 # Proyecto Vue - Recordatorios
-**Project name:** ToDo List/Recordatorios
-**Author:** [DainWs](https://github.com/DainWs)
-**Production test:** [Production](https://dainws.github.io/2DAW_ToDo_Project/)
+**Project name:** ToDo List/Recordatorios<br/>
+**Author:** [DainWs](https://github.com/DainWs)<br/>
+**Production test:** [Production](https://dainws.github.io/2DAW_ToDo_Project/)<br/>
 
 This website is a list, reminder list of all your to-dos.<br/> 
 ![Show Image](docs/Example.png)
