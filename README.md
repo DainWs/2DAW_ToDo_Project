@@ -1,10 +1,3 @@
-<style>
-    img:not([alt="Show Image"]) {
-        margin: 0 10%;
-        min-width: 80%;
-    }
-</style>
-
 # Proyecto Vue - Recordatorios
 **Project name:** ToDo List/Recordatorios
 **Author:** [DainWs](https://github.com/DainWs)
@@ -13,13 +6,19 @@ This website is a list, reminder list of all your to-dos.<br/>
 ![Show Image](docs/Example.png)
 
 You can add tasks:<br/>
-![Adding task](docs/Add.gif)
+<center>
+    <img src="docs/Add.gif" alt="Adding task" style="width: 80%;"/>
+</center>
 
 Also you can filter task by these state!!<br/>
-![Filter tasks](docs/Filter.gif)
+<center>
+    <img src="docs/Filter.gif" alt="Filter tasks" style="width: 80%;"/>
+</center>
 
 you want to change the priority of the task? Yes, you can do it!!<br/>
-![Filter tasks](docs/Priorities.gif)
+<center>
+    <img src="docs/Priorities.gif" alt="Filter tasks" style="width: 80%;"/>
+</center>
 
 ## Test it now!!
 You can test it going to [Production](https://dainws.github.io/2DAW_ToDo_Project/)
